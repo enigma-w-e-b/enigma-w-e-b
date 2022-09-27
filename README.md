@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://legacytech.io"><img src="https://i.ibb.co/n1B5tpL/IMG-20220825-021257.png" alt="Logo" width="70%"></a>
 </p>
   
 Hi, welcome to my profile. 
@@ -7,7 +6,7 @@ Buscando um novo rumo que faça sentido nesse mundo louco.
 
 
 <p align="center">
-  <a href="https://github.com/enigma-w-e-b"><img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://yt3.ggpht.com/V_ghKNJc9HpIdqhv7VHbaGZKm0Rby9gn2of3TFfx4QJ_ay836Ko-5NfvyJg-VsMe8flTKhXZ=s176-c-k-c0x00ffffff-no-rj)" alt="GITHUB"></a>
+  <a href="https://github.com/enigma-w-e-b"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"></a>
   <a href="https://www.youtube.com/channel/UCszO0wAbIQsQrV5mgLF2Eww"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
@@ -37,7 +36,7 @@ Buscando um novo rumo que faça sentido nesse mundo louco.
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=legacytechio&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=enigma-w-e-b&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
    </p>
   </div>
  </div>
