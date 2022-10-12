@@ -1,8 +1,7 @@
 <p align="center">
 </p>
   
-Hi, welcome to my profile. 
-Buscando um novo rumo que faça sentido nesse mundo louco.
+Hi, welcome to my profile.
 
 
 <p align="center">
