@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Seja bem-vindo ao meu perfil!</h3>
+<h3 align="center">Welcome to my profile!</h3>
 <br>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 ---
-- <h5>Algumas linguagens, bibliotecas e ferramentas com as quais tenho experiência.</h5>
+- <h5>Some languages, libraries and tools I have experience with.</h5>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; align-items: center; justify-items: center;">
   <img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white&style=flat" />
@@ -28,7 +28,7 @@
 <br>
 
 ---
-- <h5>Controle de versão, IDEs e ferramentas de desenvolvimento.</h5>
+- <h5>Version control, IDEs and development tools.</h5>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; align-items: center; justify-items: center;">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
@@ -43,7 +43,7 @@
 <br>
 
 ---
-- <h5>Bancos de dados SQL.</h5>
+- <h5>SQL databases.</h5>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; align-items: center; justify-items: center;">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
@@ -54,7 +54,7 @@
 <br> 
 
 ---
-- <h5>Sistemas operacionais que tenho afinidade, com destaque para o Arch Linux</h5>
+- <h5>Operating systems that I have an affinity for, especially Arch Linux.</h5>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; align-items: center; justify-items: center;">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
   <img alt="Linux Arch" src="https://img.shields.io/badge/Linux%20Arch-1793D1?logo=arch-linux&logoColor=white&style=flat" />
@@ -64,7 +64,7 @@
 <br>
 
 ---
-- <h5>Estatísticas</h5>
+- <h5>Statistics.</h5>
 
 <div align="center">
  <div>
