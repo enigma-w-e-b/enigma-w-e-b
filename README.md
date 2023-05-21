@@ -24,7 +24,6 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1B222D?logo=prisma&logoColor=white&style=flat" />
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 </div>
 <br>
 
