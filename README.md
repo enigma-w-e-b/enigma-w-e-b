@@ -1,6 +1,6 @@
 
 ---
-<h4 align="center">Bem-vindo ao meu perfil!</h4>
+<h4 align="center">Seja bem-vindo ao meu perfil!</h4>
 <br>
 
 <p align="center">
