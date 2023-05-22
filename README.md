@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/enigma-w-e-b"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"></a>
   <a href="https://www.youtube.com/channel/UCszO0wAbIQsQrV5mgLF2Eww"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PORTFOLIO"></a>
-  <a href="https://enigma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4299f0?style=for-the-badge&logo=portfolio&logoColor=white" alt="YouTube"></a>
+  <a href="https://enigma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34A7C1?style=for-the-badge&logo=aseprite&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
