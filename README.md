@@ -68,10 +68,9 @@
 
 <div align="center">
  <div>
-   <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=enigma-w-e-b&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
-   </p>
-  </div>
+    <a href="https://github.com/guiireal">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiireal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
  </div>
  
  ---
