@@ -1,13 +1,52 @@
 
+# 🌎 Hello World
 
-<h3 align="center">Welcome to my profile!</h3>
+My name is Enigma, nice to meet you!
+
 <br>
-
-<p align="center">
   <a href="https://github.com/enigma-w-e-b"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"></a>
   <a href="https://www.youtube.com/channel/UCszO0wAbIQsQrV5mgLF2Eww"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PORTFOLIO"></a>
   <a href="https://enigma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34A7C1?style=for-the-badge&logo=aseprite&logoColor=white" alt="YouTube"></a>
-</p>
+<br>
+<br>
+
+**Experience:**
+- Web apps development.
+
+---
+
+**Systems Analysis:**
+- Requirements gathering and analysis for client businesses.
+- Scope definition for new solutions (functional/non-functional requirements).
+
+---
+
+**Development:**
+- Development and customization of websites, web systems, and mobile apps.
+- Experience with small and medium-scale projects (10 to 50 thousand active users).
+
+---
+
+**Cybersecurity Skills:**
+- Familiarity with pentesting, cybersecurity, and system exploitation.
+- Proficiency in tools like BlackArch and Kali Linux for security testing, vulnerability identification, and risk assessment.
+- Security assessments, identifying weaknesses, and proposing mitigation solutions.
+- In-depth understanding of technologies such as Node.js, TypeScript, and Java for analyzing and fixing security vulnerabilities.
+- Collaboration with security teams and implementing security best practices throughout the project lifecycle.
+- Knowledge of implementing strong authentication and authorization, data encryption, and protection against injection, XSS, and CSRF attacks.
+
+---
+
+**Services:**
+- Expertise in TypeScript for developing high-performance, scalable, secure, and maintainable RESTful APIs.
+- Familiarity with BlackArch Linux for cybersecurity and penetration testing.
+- Proficiency in Nuxt.js for creating server-side rendered applications for a fast and reliable user experience.
+- Cybersecurity expertise for protecting systems and networks against digital threats through penetration testing.
+- Vue.js for creating interactive and responsive user interfaces.
+- Kubernetes for automating the deployment, scaling, and management of containerized applications.
+
+
+## Skills
 
 ---
 - <h5>Some languages, libraries and tools I have experience with.</h5>
@@ -63,17 +102,8 @@
 </div>
 <br>
 
----
-- <h5>Statistics.</h5>
-
-<div align="center">
- <div>
-    <a href="https://github.com/enigma-w-e-b">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigma-w-e-b&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
- </div>
- 
  ---
+
  <p align="center"> Crypto donations: </p>
 
 <p align="center">
