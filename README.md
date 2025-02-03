@@ -4,7 +4,7 @@
 My name is Enigma, nice to meet you!
 
 <br>
-  <a href="[https://enigma-portfolio.vercel.app/](https://enigma.ciphers.systems/)"><img src="https://img.shields.io/badge/Portfolio-34A7C1?style=for-the-badge&logo=aseprite&logoColor=white" alt="YouTube"></a>
+  <a href="https://enigma.ciphers.systems/"><img src="https://img.shields.io/badge/Portfolio-34A7C1?style=for-the-badge&logo=aseprite&logoColor=white" alt="YouTube"></a>
 <br>
 <br>
 
